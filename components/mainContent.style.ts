@@ -6,7 +6,7 @@ export const ContentWrapper = styled.div`
   width: 100%;
   height: 100%;
   padding: 20px;
-  background: white;
+  background: transparent;
   border-radius: 8px;
   box-shadow: 0px 0px 5px grey;
 `;
